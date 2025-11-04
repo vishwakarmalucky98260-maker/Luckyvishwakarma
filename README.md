@@ -157,11 +157,11 @@ A **Job Platform** designed to help job seekers find and apply to opportunities 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagmohan123&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagmohan123&theme=tokyonight" height="160" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucky vishwakarma&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucky vishwakarma&theme=tokyonight" height="160" alt="streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagmohan123&layout=compact&theme=tokyonight" height="150" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky vishwakarma&layout=compact&theme=tokyonight" height="150" alt="top languages"/>
 </p>
 
 ---
