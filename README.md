@@ -167,4 +167,4 @@ A **Job Platform** designed to help job seekers find and apply to opportunities 
 ---
 
 ### ⚡ Fun Fact
-> “Code. Debug. Repeat. 🚀”
+> “. Debug. Repeat. 🚀”
